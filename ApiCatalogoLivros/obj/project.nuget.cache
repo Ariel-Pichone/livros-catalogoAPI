@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pQ8WVJ9n8stzXjpF11XGbHVcCyU6WqXffvCeTk45Fct81+GH1ajfWZTxxL30fBiCRZqpg4xkWDduTYeDoZtBSw==",
+  "dgSpecHash": "ZRIX+JS3m9/Fd5/SsRdIAc8hQwUyZaAiCpsWAVQ37fCMLxMw9He5gLctwe/rlUHluWCXmF2T6qKd2RmkU4i2iQ==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
+  "projectFilePath": "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ariel\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\ariel\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

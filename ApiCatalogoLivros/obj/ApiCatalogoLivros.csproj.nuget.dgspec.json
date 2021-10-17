@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj": {}
+    "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj": {
+    "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
         "projectName": "ApiCatalogoLivros",
-        "projectPath": "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
+        "projectPath": "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\ApiCatalogoLivros.csproj",
         "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\DIO\\livros-catalogo\\ApiCatalogoLivros\\ApiCatalogoLivros\\obj\\",
+        "outputPath": "C:\\workspace\\DIO\\livros-catalogo\\APICatalogoLivros\\ApiCatalogoLivros\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
